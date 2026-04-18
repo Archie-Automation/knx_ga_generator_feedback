@@ -23,3 +23,13 @@ Nutzen Sie diese Seite, um Fehler zu melden oder neue Funktionen vorzuschlagen.
 Please use this page to report bugs or suggest new features.
 * **How?** Go to [**Issues**](../../issues) -> **'New Issue'** and choose a template.
 * **Privacy:** Do **not** share any personal information or license keys here.
+
+---
+
+## 📧 Direct Contact
+For private matters like licenses or billing, please contact us directly.
+*Für private Angelegenheiten wie Lizenzen oder Abrechnung kontaktieren Sie uns bitte direkt.*
+*Voor privézaken zoals licenties of facturatie kun je direct contact met ons opnemen.*
+
+* **Email:** [info@archie-automation.com]
+* **Website:** [archie-automation.com]
